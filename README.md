@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am a computer science graduate.
+Computer science graduate.
 <br/>
-Currently working as web/mobile app developer with React JS, Node & React Native.
+Working as web/mobile app developer with React JS, Node & React Native.
 Also a C# .net core and xamarin developer.
-<br/>
-Azure function and AWS Lambdas!!!!!!
+AWS and Azure servless!
 <br/>
 Looking to contribute to open source projects & or collaborate on any projects.
+<br/>
 
 <!--
 **reecec/reecec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
