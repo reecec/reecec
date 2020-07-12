@@ -1,8 +1,11 @@
 ### Hi there 👋
 I am a computer science graduate.
+<br/>
 Currently working as web/mobile app developer with React JS, Node & React Native.
 Also a C# .net core and xamarin developer.
+<br/>
 Azure function and AWS Lambdas!!!!!!
+<br/>
 Looking to contribute to open source projects & or collaborate on any projects.
 
 <!--
