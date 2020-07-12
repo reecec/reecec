@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a computer science graduate. 
+I am a computer science graduate.
 Currently working as web/mobile app developer with React JS, Node & React Native.
 Also a C# .net core and xamarin developer.
 Azure function and AWS Lambdas!!!!!!
