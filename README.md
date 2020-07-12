@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am a computer science graduate. 
 Currently working as web/mobile app developer with React JS, Node & React Native.
-Also a .net core and xamarin developer.
+Also a C# .net core and xamarin developer.
+Azure function and AWS Lambdas!!!!!!
+Looking to contribute to open source projects & or collaborate on any projects.
 
 <!--
 **reecec/reecec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
