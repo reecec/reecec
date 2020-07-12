@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a computer science gradaute. 
+Currently working as web/mobile app developer with React JS, Node & React Native.
+Also a .net core and xamarin developer.
 
 <!--
 **reecec/reecec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
