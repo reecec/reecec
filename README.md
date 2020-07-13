@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Reece a software enginner from Gillingham Kent.
+I'm Reece a software engineer from Gillingham Kent.
 <br/>
 <br/>
 An coding and infosec enthusiast who enjoys all things tech. 
