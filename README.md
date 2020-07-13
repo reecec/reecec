@@ -1,7 +1,7 @@
 I'm Reece a software engineer from Gillingham Kent.
 <br/>
 <br/>
-An coding and infosec enthusiast who enjoys all things tech 👨‍ 💻 
+An coding and infosec enthusiast who enjoys all things tech 💻 
 <br/>
 <br/>
 Currently working as a full stack web & mobile app developer. Using React JS, Node, AWS, Mongo & React Native.
@@ -16,7 +16,7 @@ Looking to contribute to open source projects & or collaborate on any projects.
 Currently learning electron JS and kubernetes. 
 <br/>
 <br/>
-When not coding most likely playing video games 🎮 or on the golf course 🏌️‍ ⛳️
+When not coding most likely playing video games 🎮  or on the golf course 🏌️‍ ⛳️
 
 <!--
 **reecec/reecec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
