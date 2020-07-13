@@ -1,9 +1,9 @@
 ### Hi there 👋
-Computer science graduate.
+I'm Reece a computer Science Graduate. An software Enginner from Gillingham Kent.
 <br/>
-Working as web/mobile app developer with React JS, Node & React Native.
-Also a C# .net core and xamarin developer.
-AWS and Azure servless!
+Currently working as a full stack web & mobile app developer. Using React JS, Node, AWS, Mongo & React Native.
+<br/>
+Also develop C# applications with .net core, xamarin and Azure.
 <br/>
 Looking to contribute to open source projects & or collaborate on any projects.
 <br/>
