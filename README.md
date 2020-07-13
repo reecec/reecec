@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm Reece a software engineer from Gillingham Kent.
 <br/>
 <br/>
