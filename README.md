@@ -1,13 +1,18 @@
 ### Hi there 👋
 I'm Reece a software enginner from Gillingham Kent.
 <br/>
+<br/>
 An coding and infosec enthusiast who enjoys all things tech. 
+<br/>
 <br/>
 Currently working as a full stack web & mobile app developer. Using React JS, Node, AWS, Mongo & React Native.
 <br/>
+<br/>
 Also develop C# applications with .net core, xamarin and Azure.
 <br/>
+<br/>
 Looking to contribute to open source projects & or collaborate on any projects.
+<br/>
 <br/>
 Currently learning electron JS and kubernetes. 
 
