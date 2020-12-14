@@ -16,7 +16,7 @@ Looking to contribute to open source projects & or collaborate on any projects.
 Currently learning electron JS and kubernetes. 
 <br/>
 <br/>
-When not coding most likely playing video games 🎮  or on the golf course 🏌️‍ ⛳️
+When not coding most likely playing video games 🎮   or on the golf course 🏌️‍ ⛳️
 
 <!--
 **reecec/reecec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
