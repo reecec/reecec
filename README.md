@@ -13,7 +13,7 @@ Also develop C# applications with .net core, xamarin and Azure.
 Looking to contribute to open source projects & or collaborate on any projects.
 <br/>
 <br/>
-Currently learning electron JS and kubernetes. 
+Currently learning docker and kubernetes. 
 <br/>
 <br/>
 When not coding most likely playing video games  🎮   or on the golf course 🏌️‍ ⛳️
